@@ -1,0 +1,4 @@
+- Mounting Holes for BeagleBone Black are offset
+- Power/JTAG/I2C connectors labels missing
+- Back power has to use VDD_5V instead of SYS_5V
+- I2C connection FPGA missing
